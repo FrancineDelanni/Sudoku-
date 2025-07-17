@@ -1,1 +1,7 @@
 package.json
+eslint.config.js
+package-lock.json
+tsconfig.app.json
+tsconfig.json
+tsconfig.node.json
+vite.config.ts
