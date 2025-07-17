@@ -5,3 +5,5 @@ tsconfig.app.json
 tsconfig.json
 tsconfig.node.json
 vite.config.ts
+node_modules
+vite-env.d.ts
